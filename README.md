@@ -1,4 +1,4 @@
-# Squidgets: Sketch-based Widget Design for Scene Manipulation
+# [Squidgets: Sketch-based Widget Design for Scene Manipulation](https://www.dgp.toronto.edu/projects/squidgets/)
 
 **Authors**
 [Joonho Kim](https://ohnooj.com)
