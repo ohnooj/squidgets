@@ -11,3 +11,4 @@ Requirements:
 - Maya (tested on 2024)
 - Maya Devkit
 - C++/Cmake
+- Test on Mac but should workon Windows.
