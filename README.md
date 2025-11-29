@@ -5,4 +5,9 @@
 [Fanny Chevalier](https://fannychevalier.net/)
 [Karan Singh](https://www.dgp.toronto.edu/~karan/)
 
-Source code will be released soon~
+This is the somewhat cleaned-up Maya code base from the original repo.  You can read how the code works [here](https://github.com/ohnooj/squidgets/blob/main/src/pipeline.md).
+
+Requirements:
+- Maya (tested on 2024)
+- Maya Devkit
+- C++/Cmake
